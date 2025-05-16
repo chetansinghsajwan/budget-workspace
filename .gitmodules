@@ -4,3 +4,6 @@
 [submodule "budget-server"]
 	path = budget-server
 	url = https://github.com/chetansinghsajwan/budget-server
+[submodule "budget-db"]
+	path = budget-db
+	url = https://github.com/chetansinghsajwan/budget-db
